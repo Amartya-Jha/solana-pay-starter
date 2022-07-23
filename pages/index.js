@@ -41,7 +41,7 @@ const App = () => {
     <div className="App">
       <div className="container">
         <header className="header-container">
-          <p className="header"> 😳 Buildspace Emoji Store 😈</p>
+          <p className="header"> 😳 Noodle's Emoji Store 😈</p>
           <p className="sub-text">The only emoji store that accepts shitcoins</p>
         </header>
 
