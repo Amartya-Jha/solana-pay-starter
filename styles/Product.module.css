@@ -5,7 +5,7 @@
   align-items: center;
   max-width: 320px;
   height: 400px;
-  background-color: #141414;
+  background-image: "..\public\catsss.png";
   margin: 15px;
   padding: 20px;
   border-radius: 16px;
@@ -19,7 +19,7 @@
 }
 
 .product_details{
-  display: flex;
+  display: flex;    
   flex-direction: column;
   max-width: 95%;
 }

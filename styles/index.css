@@ -3,6 +3,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  background-image: url(..\public\catsss.png);
 }
 
 body {
@@ -11,4 +12,5 @@ body {
     "Droid Sans", "Helvetica Neue", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url(..\public\catsss.png);
 }
